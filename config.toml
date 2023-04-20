@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://sirenthesiren.github.io/'
 languageCode = 'en-us'
 theme = 'graysx'
 title = 'Example Graysx Site'
